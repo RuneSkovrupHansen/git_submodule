@@ -1,0 +1,3 @@
+[submodule "character_cpp"]
+	path = character_cpp
+	url = git@github.com:RuneSkovrupHansen/character_cpp.git
